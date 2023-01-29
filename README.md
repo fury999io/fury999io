@@ -5,7 +5,7 @@ Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Netwo
 <img src="https://img.shields.io/github/stars/fury999io?style=social"> <br>
 <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
 <pre>
-Email:  <a href="fury999io@outlook.com">fury999io.outlook.com</a>
+Email:  <a href="https://fury999io@outlook.com">fury999io.outlook.com</a>
 Matrix: <a href="https://matrix.to/#/@fury999io:matrix.org">@fury999io:matrix.org</a>
 IRC:    fury999io [irc.libera.chat:6697]
 Site:   <a href="https://fury999io.github.io">fury999io.github.io</a>
