@@ -1,4 +1,4 @@
-### Hello ther<img src="e 👋 I am FURY 999
+### Hello there 👋 I am FURY 999
 ### I am an innocent guy loves computers and technology. 
 ### Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more...
 <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=green">
