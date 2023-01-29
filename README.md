@@ -1,5 +1,4 @@
-### Hi there 👋
-### I am FURY 999
+### Hi there 👋. I am FURY 999 a.k.a fury999io.
 <!--
 **fury999io/fury999io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
