@@ -1,6 +1,6 @@
 ### Hello there 👋 I am FURY 999
-I am an innocent guy loves computers and technology. 
-Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more...
+I am an innocent guy loves computers and technology. <br>
+Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more... <br>
 <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=green">
 <!--
 **fury999io/fury999io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
