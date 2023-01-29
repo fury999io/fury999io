@@ -1,5 +1,5 @@
 ### Hello there 👋 I am FURY 999
-I am an innocent guy loves computers and technology. <br>
+I am an innocent guy who loves computers and technology. <br>
 Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more... <br><br>
 <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=green">
 <!--
