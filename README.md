@@ -3,7 +3,8 @@ I am an innocent guy who loves computers and technology. <br>
 Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more... <br><br>
 <img src="https://img.shields.io/github/followers/fury999io?style=social"> <br>
 <img src="https://img.shields.io/github/stars/fury999io?style=social"> <br>
-<img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red">
+<img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
+Email: <a href="fury999io@outlook.com">fury999io.outlook.com</a>
 <!--
 **fury999io/fury999io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
