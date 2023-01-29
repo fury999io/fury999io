@@ -7,7 +7,9 @@ Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Netwo
 <pre>
 Email:  <a href="fury999io@outlook.com">fury999io.outlook.com</a> <br>
 Matrix: <a href="https://matrix.to/#/@fury999io:matrix.org">@fury999io:matrix.org</a> <br>
-IRC:    fury999io [irc.libera.chat:6697]<pre>
+IRC:    fury999io [irc.libera.chat:6697]
+Site:   <a href="https://fury999io.github.io">fury999io.github.io</a>
+<pre>
 <!--
 **fury999io/fury999io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
