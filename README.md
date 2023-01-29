@@ -3,7 +3,7 @@ I am an innocent guy who loves computers and technology. <br>
 Interests: Programming, Cryptography, FOSS, Unix/GNU/Linux, Cybersecurity, Networking, more... <br><br>
 <img src="https://img.shields.io/github/followers/fury999io?style=social"> <br>
 <img src="https://img.shields.io/github/stars/fury999io?style=social"> <br>
-<img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
+<img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br>
 <pre>
 Email:    fury999io.outlook.com
 Site:     <a href="https://fury999io.github.io">fury999io.github.io</a>
