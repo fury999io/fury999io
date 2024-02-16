@@ -3,7 +3,7 @@
 * Software Freedom
 * GNU/Linux
 <br><br>
-<img src="https://img.shields.io/github/followers/fury999io?style=social"> <img src="https://img.shields.io/github/stars/fury999io?style=social"> <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
+<img src="https://img.shields.io/github/followers/fury999io?style=social"> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/fury999io?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
 <img src="https://c.tenor.com/QLh0PhunTj8AAAAC/tenor.gif" width="300px"> <br>
 <pre>
 Email:    <a href="mailto:fury999io@gmail.com">fury999io@gmail.com</a>
