@@ -1,9 +1,9 @@
 ### Hello there 👋 I am FURY 999
 
-> Cypherpunk
-> Hacker culture :)
-> Software Freedom
-> GNU/Linux
+* Cypherpunk
+* Hacker culture :)
+* Software Freedom
+* GNU/Linux
 <br><br>
 <img src="https://c.tenor.com/QLh0PhunTj8AAAAC/tenor.gif"><br><br>
 <img src="https://img.shields.io/github/followers/fury999io?style=social"> <br>
