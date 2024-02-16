@@ -3,7 +3,7 @@
 * Software Freedom
 * GNU/Linux
 <br><br>
-<img src="https://c.tenor.com/QLh0PhunTj8AAAAC/tenor.gif"><br><br>
+<img src="https://c.tenor.com/QLh0PhunTj8AAAAC/tenor.gif" width="300px"><br><br>
 <img src="https://img.shields.io/github/followers/fury999io?style=social"> <br>
 <img src="https://img.shields.io/github/stars/fury999io?style=social"> <br>
 <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br>
