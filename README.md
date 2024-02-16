@@ -6,11 +6,8 @@
 <img src="https://img.shields.io/github/followers/fury999io?style=social"> &nbsp;&nbsp; <img src="https://img.shields.io/github/stars/fury999io?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=fury999io&style=flat-square&color=red"> <br><br>
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/tenor.gif" width="300px"> <br>
 <pre>
-Email:    <a href="mailto:fury999io@gmail.com">fury999io@gmail.com</a>
-Site:     <a href="https://fury999io.vern.cc/">fury999io.vern.cc</a>
 Matrix:   <a href="https://matrix.to/#/@fury999io:matrix.org">@fury999io:matrix.org</a>
 IRC:      fury999io [irc.libera.chat:6697]
-Telegram: <a href="https://t.me/fury999io">@fury999io</a>
 </pre>
 <!--
 **fury999io/fury999io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
