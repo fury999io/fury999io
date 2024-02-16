@@ -1,5 +1,3 @@
-### Hello there 👋 I am FURY 999
-
 * Cypherpunk
 * Hacker culture :)
 * Software Freedom
